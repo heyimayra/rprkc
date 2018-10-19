@@ -9,7 +9,7 @@ Open Terminal and navigate to the directory where you saved `rprkc.sh`, then mak
 __Example (when saved in home directory):__
 ```
 cd ~
-chmod +x rprkc.sh
+chmod +x ./rprkc.sh
 ```
 
 Finally, run the script with `sudo`.
