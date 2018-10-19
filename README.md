@@ -18,4 +18,4 @@ sudo ./rprkc.sh
 ```
 
 ## Credits
-* Hervé from OSXLatitude for the original guide linked [here](https://osxlatitude.com/forums/topic/9961-how-do-i-repair-permissions-and-rebuild-the-cache-yosemite-and-later/), as this script is just an automated version of that.
+* Hervé from OSXLatitude for the original guide linked [here](https://osxlatitude.com/forums/topic/9961-how-do-i-repair-permissions-and-rebuild-the-cache-yosemite-and-later/), as this script is just an automated version of his guide.
