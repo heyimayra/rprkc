@@ -14,7 +14,7 @@ chmod +x rprkc.sh
 
 Finally, run the script with `sudo`.
 ```
-sudo rprkc.sh
+sudo ./rprkc.sh
 ```
 
 ## Credits
