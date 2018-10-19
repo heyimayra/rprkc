@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# A simple script (rprkc.sh) for repairing permissions and rebuilding the kextcache along with the prelinked kernel for (OS X/macOS 10.10 and later).
+# A simple script (rprkc.sh) for repairing permissions and rebuilding the kextcache along with the prelinked kernel. 
+#
+# For use on OS X/macOS 10.10 and later.
 #
 # By: iamkurumi
 #
