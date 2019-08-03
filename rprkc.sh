@@ -9,7 +9,7 @@
 #=====================================================================================================================
 
 echo ''
-echo 'RPRKC Script - by iamkurumi'
+echo 'RPRKC Script - by heyimayra'
 echo ''
 echo ''
 
